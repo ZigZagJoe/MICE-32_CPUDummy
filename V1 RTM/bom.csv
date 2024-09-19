@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C5",0805,2,22uF,C45783
+J1,PinHeader_1x02_P2.00mm_Vertical,1,Conn_01x02_Socket,
+U1,PGA-128-LgHoles-Labels,1,MC68030RC_PGA,
+X1,Oscillator_DIP-8_DIP-14,1,50.350MHZ,n/a
